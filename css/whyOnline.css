@@ -19,7 +19,7 @@
     background-image: url("Online\ page-rafiki.png");
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: center;
     display: flex;
     justify-content: center;
 }
